@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Элина Штеренгарц](https://up.htmlacademy.ru/htmlcss/23/user/802143).
+* Студент:(https://up.htmlacademy.ru/htmlcss/23/user/802143).
 
 ---
 
